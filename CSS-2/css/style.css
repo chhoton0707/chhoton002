@@ -1,0 +1,89 @@
+
+
+h1{
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+  background: url(../img/bg.jpg); 
+  background-size: cover;
+}
+.container{
+	
+    width: 650px;
+    margin: 10%;
+    background-color: pink;
+} 
+.Login-section {
+
+}
+
+.Login-section img{
+
+}
+
+.Login-section h3{
+
+}
+
+.form-control {
+        width: 97%;
+        padding: 7px;
+        height: 27px;
+        margin-bottom: 7px;
+}
+
+}
+.submit-button {
+
+        display: block;
+        background-color: #ffeb3b;
+        font-size: larger;
+        padding: 7px;
+        margin: auto;
+        border: none;
+}
+
+h1 {
+	      margin: 0px;
+	      padding: 0px;
+}
+
+body {
+         background: url(../img/bg.jpg); 
+         background-size: cover;
+}
+.container{
+	
+         width: 650px;
+	
+         margin: 10%;
+	
+         background-color: pink;
+	
+        padding: 30px;
+} 
+.Login-section {
+
+}
+
+.Login-section img{
+
+         margin: 0px auto;
+
+         display: block;
+}
+
+.Login-section h3{
+
+        text-align: center;
+
+        text-transform: uppercase;
+
+        color: #213bf3;
+
+        font-size: inherit;
+
+        margin: 10px;
+ }
